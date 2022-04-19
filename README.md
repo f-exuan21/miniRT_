@@ -1,5 +1,5 @@
 # miniRT
-
+https://pricey-parcel-35c.notion.site/miniRT-e38ce334adcd40cf91dec4b1bf8ffeaf
 ---
 
 ### 윈도우 규칙
